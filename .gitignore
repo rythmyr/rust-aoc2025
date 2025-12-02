@@ -4,3 +4,5 @@
 # Added by cargo
 
 /target
+# https://adventofcode.com/2025/about mentions not wanting to include inputs if we host solutions in a repository
+input.txt
